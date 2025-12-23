@@ -1,6 +1,6 @@
 # N46Whisper For Lecture
 
-N46Whisper For Lecture は、講義録画やオンライン教材動画の文字起こし・
+N46Whisper For Lecture は、講義録音やオンライン教材動画の文字起こし・
 字幕生成を効率化するための Google Colab ノートブックです。
 
 本プロジェクトは、乃木坂46グループの字幕制作効率化を目的とした
