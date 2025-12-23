@@ -1,7 +1,7 @@
 # N46Whisper For Lecture
 
 [![Google Colab で開く](https://colab.research.google.com/assets/colab-badge.svg)]
-([https://colab.research.google.com/your_colab_link_here](https://colab.research.google.com/drive/1keQeknae1mxEA4XTGtZUj8hSe1vGNHog?usp=sharing)
+(https://colab.research.google.com/drive/1keQeknae1mxEA4XTGtZUj8hSe1vGNHog?usp=sharing)
 
 N46Whisper For Lecture は、講義録音やオンライン教材動画の文字起こし・
 字幕生成を効率化するための Google Colab ノートブックです。
